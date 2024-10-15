@@ -1,0 +1,29 @@
+body {
+    font-family: "Source Code Pro", monospace;
+}
+
+
+
+/* landing page welcome */
+.home-info .entry-content {
+    font-family: Spectral;
+    font-family: "Source Code Pro", monospace;
+    font-size: 1.05rem !important;
+    /* font-weight: 400; */
+}
+
+/* settings for post landing page */
+.post-entry .entry-content {
+    font-family: Spectral;
+    font-family: "Source Code Pro", monospace;
+    /* font-size: 1rem; */
+    /* font-weight: 400; */
+}
+
+/* for dedicated posts */
+.post-single .post-content {
+    font-family: Spectral;
+    font-family: "Source Code Pro", monospace;
+    font-size: 1rem;
+    /* font-weight: 400; */
+}
